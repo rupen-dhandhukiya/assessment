@@ -2,7 +2,7 @@
 Rest API to get standard-rate and reduced-rate filtered data
 ## How to run
 
-  Open command promp in standard-reduced-rates-service folder path and run below command
+  Open command prompt in standard-reduced-rates-service folder path and run below command
 ```
 mvn spring-boot:run
 ```
