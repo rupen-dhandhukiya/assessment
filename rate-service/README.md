@@ -2,7 +2,7 @@
 Rest API to load JSON data
 ## How to run
 
-  open cmd in rate-service folder path and run below command
+  Open command prompt in rate-service folder path and run below command
 ```
 mvn spring-boot:run
 ```
