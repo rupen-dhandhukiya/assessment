@@ -12,7 +12,5 @@ User should click on GET button to test the below requirements
 
      - get three EU countries with the highest standard VAT rates
      - get three EU countries with the lowest reduced VAT rates 
- 
- 
- ## Architecture Diagram
+
 
