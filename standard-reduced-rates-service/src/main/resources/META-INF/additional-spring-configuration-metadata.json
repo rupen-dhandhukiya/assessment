@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "rate.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'rate.service.url'"
+  },
+  {
+    "name": "standard.rate.count",
+    "type": "java.lang.String",
+    "description": "A description for 'standard.rate.count'"
+  },
+  {
+    "name": "reduced.rate.count",
+    "type": "java.lang.String",
+    "description": "A description for 'reduced.rate.count'"
+  },
+  {
+    "name": "application.path",
+    "type": "java.lang.String",
+    "description": "A description for 'application.path'"
+  },
+  {
+    "name": "standard.rate.path",
+    "type": "java.lang.String",
+    "description": "A description for 'standard.rate.path'"
+  },
+  {
+    "name": "reduced.rate.path",
+    "type": "java.lang.String",
+    "description": "A description for 'reduced.rate.path'"
+  }
+]}
