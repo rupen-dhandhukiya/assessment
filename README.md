@@ -18,5 +18,4 @@ mvn spring-boot:run
   http://localhost:8082/swagger-ui/index.html
 
 ## Architecture Diagram
-![image](https://user-images.githubusercontent.com/123449651/214284887-f484c905-3701-4a6b-a0db-19afbc0e7174.png)
-
+![image](https://user-images.githubusercontent.com/123449651/214549738-91e5e276-8d66-4d0c-b5c4-ab856092f033.png)
