@@ -9,7 +9,7 @@ git clone https://github.com/rupen-dhandhukiya/assessment.git
 
 2. Run project
 
-    User should navigate to project extracted path in command line and execute below command
+    Navigate to project extracted path in command line and execute below command
 ```
 mvn spring-boot:run
 ```
